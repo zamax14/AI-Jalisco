@@ -67,6 +67,7 @@ Copy-Item .env.example .env
 TALLER_BASE_URL=https://ai-jalisco.datzin.com.mx
 TALLER_TOKEN=pega-aqui-el-token-del-taller
 OLLAMA_MODEL=qwen3:4b-instruct
+# OLLAMA_MODEL=qwen3.5:0.8b    # más pequeño y rápido, pero se equivoca más
 ```
 
 ---
@@ -162,6 +163,7 @@ Clientes que aceptan configuración JSON:
 - Cambia el texto de `SISTEMA` en `03_agente.py` y observa cómo cambian las respuestas.
 - En `tools.py`, cambia la `description` de una herramienta. ¿El modelo la sigue eligiendo bien?
 - Quita una herramienta de `TOOLS`. ¿Qué responde el agente cuando ya no puede usarla?
+- Cambia `OLLAMA_MODEL` en `.env` a `qwen3.5:0.8b` (unas 5 veces más pequeño) y repite las misiones 3 y 5. ¿Usa las herramientas o **inventa cifras**? Compara con las trazas.
 
 ---
 
