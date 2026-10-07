@@ -1,0 +1,74 @@
+{
+  "guadalajara": {
+    "acceso_agua_pct": 89.7,
+    "recoleccion_residuos_pct": 88.1,
+    "reciclaje_pct": 12.1,
+    "areas_verdes_m2_hab": 3.32,
+    "pm25_ug_m3": 14.0,
+    "viajes_transporte_publico_pct": 44.1
+  },
+  "zapopan": {
+    "acceso_agua_pct": 90.0,
+    "recoleccion_residuos_pct": 71.8,
+    "reciclaje_pct": 10.6,
+    "areas_verdes_m2_hab": 1.96,
+    "pm25_ug_m3": 32.4,
+    "viajes_transporte_publico_pct": 44.4
+  },
+  "san-pedro-tlaquepaque": {
+    "acceso_agua_pct": 80.1,
+    "recoleccion_residuos_pct": 71.4,
+    "reciclaje_pct": 3.5,
+    "areas_verdes_m2_hab": 6.86,
+    "pm25_ug_m3": 32.7,
+    "viajes_transporte_publico_pct": 18.4
+  },
+  "tonala": {
+    "acceso_agua_pct": 82.0,
+    "recoleccion_residuos_pct": 89.8,
+    "reciclaje_pct": 21.6,
+    "areas_verdes_m2_hab": 11.37,
+    "pm25_ug_m3": 29.3,
+    "viajes_transporte_publico_pct": 42.4
+  },
+  "tlajomulco-de-zuniga": {
+    "acceso_agua_pct": 85.4,
+    "recoleccion_residuos_pct": 95.5,
+    "reciclaje_pct": 14.3,
+    "areas_verdes_m2_hab": 7.23,
+    "pm25_ug_m3": 19.0,
+    "viajes_transporte_publico_pct": 20.0
+  },
+  "el-salto": {
+    "acceso_agua_pct": 78.7,
+    "recoleccion_residuos_pct": 92.0,
+    "reciclaje_pct": 13.5,
+    "areas_verdes_m2_hab": 5.36,
+    "pm25_ug_m3": 37.7,
+    "viajes_transporte_publico_pct": 27.2
+  },
+  "juanacatlan": {
+    "acceso_agua_pct": 83.8,
+    "recoleccion_residuos_pct": 92.8,
+    "reciclaje_pct": 14.0,
+    "areas_verdes_m2_hab": 10.14,
+    "pm25_ug_m3": 21.8,
+    "viajes_transporte_publico_pct": 26.7
+  },
+  "ixtlahuacan-de-los-membrillos": {
+    "acceso_agua_pct": 94.8,
+    "recoleccion_residuos_pct": 82.8,
+    "reciclaje_pct": 16.1,
+    "areas_verdes_m2_hab": 9.45,
+    "pm25_ug_m3": 27.5,
+    "viajes_transporte_publico_pct": 33.6
+  },
+  "zapotlanejo": {
+    "acceso_agua_pct": 90.3,
+    "recoleccion_residuos_pct": 91.2,
+    "reciclaje_pct": 19.3,
+    "areas_verdes_m2_hab": 10.32,
+    "pm25_ug_m3": 22.3,
+    "viajes_transporte_publico_pct": 30.0
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "acceso_agua_pct",
+    "nombre": "Acceso a agua entubada",
+    "descripcion": "Porcentaje de viviendas con agua entubada dentro de la vivienda.",
+    "unidad": "%",
+    "anio": 2025,
+    "direccion_deseable": "alta",
+    "ods": "ODS 6",
+    "fuente": "Datos sintéticos para taller"
+  },
+  {
+    "id": "recoleccion_residuos_pct",
+    "nombre": "Recolección de residuos",
+    "descripcion": "Porcentaje de viviendas con servicio regular de recolección de residuos.",
+    "unidad": "%",
+    "anio": 2025,
+    "direccion_deseable": "alta",
+    "ods": "ODS 11",
+    "fuente": "Datos sintéticos para taller"
+  },
+  {
+    "id": "reciclaje_pct",
+    "nombre": "Residuos reciclados",
+    "descripcion": "Porcentaje de residuos sólidos urbanos que se reciclan.",
+    "unidad": "%",
+    "anio": 2025,
+    "direccion_deseable": "alta",
+    "ods": "ODS 12",
+    "fuente": "Datos sintéticos para taller"
+  },
+  {
+    "id": "areas_verdes_m2_hab",
+    "nombre": "Áreas verdes por habitante",
+    "descripcion": "Metros cuadrados de área verde pública por habitante.",
+    "unidad": "m²/habitante",
+    "anio": 2025,
+    "direccion_deseable": "alta",
+    "ods": "ODS 11",
+    "fuente": "Datos sintéticos para taller"
+  },
+  {
+    "id": "pm25_ug_m3",
+    "nombre": "Concentración de PM2.5",
+    "descripcion": "Promedio anual de partículas finas PM2.5 en el aire.",
+    "unidad": "µg/m³",
+    "anio": 2025,
+    "direccion_deseable": "baja",
+    "ods": "ODS 3, ODS 11",
+    "fuente": "Datos sintéticos para taller"
+  },
+  {
+    "id": "viajes_transporte_publico_pct",
+    "nombre": "Viajes en transporte público",
+    "descripcion": "Porcentaje de viajes diarios realizados en transporte público.",
+    "unidad": "%",
+    "anio": 2025,
+    "direccion_deseable": "alta",
+    "ods": "ODS 11",
+    "fuente": "Datos sintéticos para taller"
+  }
+]

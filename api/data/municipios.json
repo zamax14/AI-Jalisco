@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "guadalajara",
+    "nombre": "Guadalajara"
+  },
+  {
+    "slug": "zapopan",
+    "nombre": "Zapopan"
+  },
+  {
+    "slug": "san-pedro-tlaquepaque",
+    "nombre": "San Pedro Tlaquepaque"
+  },
+  {
+    "slug": "tonala",
+    "nombre": "Tonalá"
+  },
+  {
+    "slug": "tlajomulco-de-zuniga",
+    "nombre": "Tlajomulco de Zúñiga"
+  },
+  {
+    "slug": "el-salto",
+    "nombre": "El Salto"
+  },
+  {
+    "slug": "juanacatlan",
+    "nombre": "Juanacatlán"
+  },
+  {
+    "slug": "ixtlahuacan-de-los-membrillos",
+    "nombre": "Ixtlahuacán de los Membrillos"
+  },
+  {
+    "slug": "zapotlanejo",
+    "nombre": "Zapotlanejo"
+  }
+]

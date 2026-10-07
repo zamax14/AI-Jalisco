@@ -1,0 +1,5 @@
+# API REST y servidor MCP. Los alumnos usan student/requirements.txt.
+fastapi==0.142.2
+uvicorn==0.54.0
+httpx==0.28.1
+fastmcp==4.0.11
